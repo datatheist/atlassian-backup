@@ -1,6 +1,8 @@
 # atlassian-backup
 A repository to hold the files for the FT CT Atlassian backup on colab.research.google.com Jupyter Notebooks automated solution.
 
+Disclaimer: This repo was mostly inspired by Prabasara's amazing article which you can find on ![Medium.com](https://pabasar.medium.com/how-to-download-files-directly-to-google-drive-from-a-downloadable-link-0c10633be459). Endless Kudos for Pabasara, good karma is with you all the way, Prab. 
+
 ## How is GColab Used Here
 Google Colab, or Colaboratory, is a free Jupyter Notebook environment provided by Google. It allows you to write and execute Python code through your browser, leveraging the power of Google's cloud infrastructure. Here’s how Google Colab utilizes Jupyter Notebooks:
 
