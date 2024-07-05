@@ -6,7 +6,7 @@ Google Colab, or Colaboratory, is a free Jupyter Notebook environment provided b
 
 ## What are Jupyter Notebooks?
 
-![Gcolab](https://miro.medium.com/v2/resize:fit:1400/1*RzxZF0mmXAsMLrIzAWYDSg.png)
+![Gcolab](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS01sXsOua7q1xxpoMn9N0JA0npthSFCtffxQ&usqp=CAU)
 
 
 Jupyter Notebooks are an open-source web application that allows you to create and share documents that contain live code, equations, visualizations, and narrative text. They are widely used in data science, scientific computing, and machine learning for interactive data analysis and visualizations. The name "Jupyter" comes from the core programming languages it supports: Julia, Python, and R.
